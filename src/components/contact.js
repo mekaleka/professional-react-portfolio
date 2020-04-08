@@ -20,7 +20,7 @@ class Contact extends Component {
                 strong people skills. Strong focus on customer satisfaction
                 while maintaining productivity. I recently obtained a Full Stack
                 Web Development Certificate from the University of Arizona with
-                skills in HTML, CSS, JavaScript, jQuery
+                skills in HTML, CSS, JavaScript, jQuery.
               </p>
             </Cell>
 
@@ -45,7 +45,7 @@ class Contact extends Component {
                       michaeljamesplichta@gmail.com
                     </ListItemContent>
                   </ListItem>
-                  
+
                 </List>
               </div>
             </Cell>

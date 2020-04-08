@@ -13,7 +13,7 @@ class Landing extends Component {
               className="profile-image"
             />
             <div className="title-text">
-              <h1>Junior Full Stack Web Developer</h1>
+              <h1>Junior Web Developer</h1>
 
               <hr />
 

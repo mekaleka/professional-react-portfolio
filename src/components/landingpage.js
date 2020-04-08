@@ -12,6 +12,13 @@ class Landing extends Component {
               alt="profilepic"
               className="profile-image"
               />
+              <div className="title-text">
+                <h1>Junior Full Stack Web Developer</h1>
+
+                <hr/>
+
+                <p>HTML/CSS | Bootstrap |JavaScript | jQuery | Node.js | React | Express | MongoDB | MySQL</p>
+              </div>
             </Cell>
           </Grid>
       </div>

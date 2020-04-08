@@ -14,7 +14,36 @@ background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+
 
 .profile-image {
 height: 250px;
-padding-top: 5rem;
-/* border-radius: 25%; */
-/* border-style: inset; */
+margin: auto;
+border-radius: 35%;
+border-style: inset;
+}
+
+.title-text {
+background-color: darkgrey;
+opacity: .8;
+width: 75%;
+margin: auto;
+border-style: inset;
+border-radius: 10px;
+}
+
+.title-text h1 {
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.title-text hr {
+  border-top: 5px solid white;
+  width: 50%;
+  margin: auto;
+}
+
+.title-text p {
+  color: white;
+  font-size: 19px;
+  padding: 1rem;
+  text-align: center;
 }

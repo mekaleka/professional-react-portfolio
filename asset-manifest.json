@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/professional-react-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/professional-react-portfolio/static/js/main.135c71d1.chunk.js",
-    "main.js.map": "/professional-react-portfolio/static/js/main.135c71d1.chunk.js.map",
-    "runtime-main.js": "/professional-react-portfolio/static/js/runtime-main.22f4b090.js",
-    "runtime-main.js.map": "/professional-react-portfolio/static/js/runtime-main.22f4b090.js.map",
-    "static/js/2.29755ca8.chunk.js": "/professional-react-portfolio/static/js/2.29755ca8.chunk.js",
-    "static/js/2.29755ca8.chunk.js.map": "/professional-react-portfolio/static/js/2.29755ca8.chunk.js.map",
-    "index.html": "/professional-react-portfolio/index.html",
-    "precache-manifest.8c186f57959567f20abd48feb37f08e2.js": "/professional-react-portfolio/precache-manifest.8c186f57959567f20abd48feb37f08e2.js",
-    "service-worker.js": "/professional-react-portfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/professional-react-portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.29755ca8.chunk.js.LICENSE.txt": "/professional-react-portfolio/static/js/2.29755ca8.chunk.js.LICENSE.txt"
+    "main.css": "/mekaleka/professional-react-portfolio/static/css/main.96fa6369.chunk.css",
+    "main.js": "/mekaleka/professional-react-portfolio/static/js/main.6ce6e6bf.chunk.js",
+    "main.js.map": "/mekaleka/professional-react-portfolio/static/js/main.6ce6e6bf.chunk.js.map",
+    "runtime-main.js": "/mekaleka/professional-react-portfolio/static/js/runtime-main.69f39193.js",
+    "runtime-main.js.map": "/mekaleka/professional-react-portfolio/static/js/runtime-main.69f39193.js.map",
+    "static/css/2.e4346227.chunk.css": "/mekaleka/professional-react-portfolio/static/css/2.e4346227.chunk.css",
+    "static/js/2.77b453bf.chunk.js": "/mekaleka/professional-react-portfolio/static/js/2.77b453bf.chunk.js",
+    "static/js/2.77b453bf.chunk.js.map": "/mekaleka/professional-react-portfolio/static/js/2.77b453bf.chunk.js.map",
+    "index.html": "/mekaleka/professional-react-portfolio/index.html",
+    "precache-manifest.e42bae9c062d89aa9784bf1e9726b906.js": "/mekaleka/professional-react-portfolio/precache-manifest.e42bae9c062d89aa9784bf1e9726b906.js",
+    "service-worker.js": "/mekaleka/professional-react-portfolio/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/mekaleka/professional-react-portfolio/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.96fa6369.chunk.css.map": "/mekaleka/professional-react-portfolio/static/css/main.96fa6369.chunk.css.map",
+    "static/js/2.77b453bf.chunk.js.LICENSE.txt": "/mekaleka/professional-react-portfolio/static/js/2.77b453bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22f4b090.js",
-    "static/js/2.29755ca8.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.135c71d1.chunk.js"
+    "static/js/runtime-main.69f39193.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.77b453bf.chunk.js",
+    "static/css/main.96fa6369.chunk.css",
+    "static/js/main.6ce6e6bf.chunk.js"
   ]
 }

@@ -2,7 +2,7 @@
   "name": "professional-react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mekaleka/professional-react-portfolio",
+  "homepage": "http://mekaleka.github.io/professional-react-portfolio",
   "engines": {
     "npm": "6.12.1",
     "node": "12.13.1"

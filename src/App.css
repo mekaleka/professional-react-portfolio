@@ -1,67 +1,114 @@
 .navbar-color {
-  background: #5433FF;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background: #5433FF; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .landing-grid {
-  background: #5433FF;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-text-align: center;
-position: fixed;
-top: 64px;
-left: 0;
-width: 100%;
-height: 100%;
+    background: #5433FF; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    position: fixed;
+    top: 64px;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
 
 .profile-image {
-height: 250px;
-margin-bottom:  30px;
-border-radius: 35%;
-border-style: inset;
+    height: 250px;
+    margin-bottom: 30px;
+    border-radius: 35%;
+    border-style: inset;
 }
 
 .title-text {
-background-color: darkgrey;
-opacity: .8;
-width: 75%;
-margin: auto;
-border-style: inset;
-border-radius: 10px;
+    background-color: darkgrey;
+    opacity: .8;
+    width: 75%;
+    margin: auto;
+    border-style: inset;
+    border-radius: 10px;
 }
 
 .title-text h1 {
-  font-size: 50px;
-  font-weight: bold;
-  color: white;
-  text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
 }
 
 .title-text hr {
-  border-top: 5px solid white;
-  width: 50%;
-  margin: auto;
+    border-top: 5px solid white;
+    width: 50%;
+    margin: auto;
 }
 
 .title-text p {
-  color: white;
-  font-size: 19px;
-  padding: 1rem;
-  /* text-align: center; */
+    color: white;
+    font-size: 19px;
+    padding: 1rem;
+    /* text-align: center; */
 }
 
 .media-links {
-  display: flex;
-  justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+}
+
+.media-links i {
+    color: white;
+    font-size: 5rem;
+    padding: 8px;
+}
+
+.app-name {
+    text-align: center;
+}
+
+.projects-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact-body {
+    margin: auto;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.contact-grid {
+    text-align: center;
+    justify-content: center;
+    width: 80%;
+    height: 550px;
+    background: white;
+    color: black;
+    margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: "Anton", sans-serif;
+}
+
+.contact-grid p {
+  font-family: "Oxygen", sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px solid black;
   width: 50%;
   margin: auto;
 }
 
-.media-links i {
-  color: white;
-  font-size: 5rem;
-  padding: 8px;
+.contact-list i {
+  font-size: 65px;
+  padding-right: 5rem;
 }

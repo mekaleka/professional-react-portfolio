@@ -22,10 +22,18 @@ class Landing extends Component {
                 Express | MongoDB | MySQL
               </p>
               <div className="media-links">
-                <a href="https://github.com/mekaleka" rel="noopener noreferrer" target="_blank">
+                <a
+                  href="https://github.com/mekaleka"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
                   <i className="fa fa-github-square" aria-hidden="true" />
                 </a>
-                <a href="https://www.linkedin.com/in/michael-plichta-60a391199/" rel="noopener noreferrer" target="_blank">
+                <a
+                  href="https://www.linkedin.com/in/michael-plichta-60a391199/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                >
                   <i className="fa fa-linkedin-square" aria-hidden="true" />
                 </a>
               </div>

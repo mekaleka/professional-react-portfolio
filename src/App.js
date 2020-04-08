@@ -13,7 +13,7 @@ class App extends Component {
             <Navigation>
               <Link to="/aboutme">About Me</Link>
               <Link to="/projects">Projects</Link>
-              <Link to="/resume">Resume</Link>
+              <Link href="https://drive.google.com/open?id=1UMjDUNA8vglz-psJKoMz3mf3LlVmhxWs" to="/resume">Resume</Link>
               <Link to="/contact">Contact</Link>
             </Navigation>
           </Header>
@@ -21,7 +21,7 @@ class App extends Component {
             <Navigation>
               <Link to="/aboutme">About Me</Link>
               <Link to="/projects">Projects</Link>
-              <Link to="/resume">Resume</Link>
+              <Link href="https://drive.google.com/open?id=1UMjDUNA8vglz-psJKoMz3mf3LlVmhxWs" to="/resume">Resume</Link>
               <Link to="/contact">Contact</Link>
             </Navigation>
           </Drawer>

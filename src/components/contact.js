@@ -20,7 +20,7 @@ class Contact extends Component {
                 strong people skills. Strong focus on customer satisfaction
                 while maintaining productivity. I recently obtained a Full Stack
                 Web Development Certificate from the University of Arizona with
-                skills in HTML, CSS, JavaScript, jQuery.
+                skills in HTML, CSS, JavaScript, jQuery and React. 
               </p>
             </Cell>
 
@@ -32,17 +32,33 @@ class Contact extends Component {
                 <List>
                   <ListItem>
                     <ListItemContent
-                      style={{ fontSize: "25px", fontFamily: "Anton" }}>
+                      style={{ fontSize: "25px", fontFamily: "Anton" }}
+                    >
                       <i className="fa fa-phone-square" aria-hidden="true" />
                       (602) 758-9163
                     </ListItemContent>
                   </ListItem>
-                 
+
                   <ListItem>
                     <ListItemContent
-                      style={{ fontSize: "25px", fontFamily: "Anton" }}>
+                      style={{ fontSize: "25px", fontFamily: "Anton" }}
+                    >
                       <i className="fa fa-envelope" aria-hidden="true" />
                       michaeljamesplichta@gmail.com
+                    </ListItemContent>
+                  </ListItem>
+
+                  <ListItem>
+                    <ListItemContent
+                      style={{ fontSize: "25px", fontFamily: "Anton" }}
+                    >
+                      <i className="fa fa-linkedin-square" aria-hidden="true" />
+                      <a
+                        href="https://www.linkedin.com/in/michael-plichta-60a391199/"
+                        rel="noopener noreferrer"
+                        target="_blank">
+                          Michael Plichta | LinkedIn.com
+                        </a>
                     </ListItemContent>
                   </ListItem>
 

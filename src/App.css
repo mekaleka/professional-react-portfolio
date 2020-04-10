@@ -123,3 +123,8 @@
 .aboutBackground {
     background-color: darkgray;
 }
+
+.container {
+    margin-left: 7%;
+    padding-left: 8%;
+}

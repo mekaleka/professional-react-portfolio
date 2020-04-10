@@ -5,6 +5,7 @@ class About extends Component {
   render() {
     return (
       <div className="aboutBackground" style={{ width: "100%", margin: "auto", paddingTop: "1rem" }}>
+        <div className="container">
         <Grid className="demo-grid-2">
           <Cell
           className="navbar-color1"
@@ -60,6 +61,7 @@ class About extends Component {
             galley of type and scrambled it to make a type specimen book.
           </Cell>
         </Grid>
+      </div>
       </div>
     );
   }

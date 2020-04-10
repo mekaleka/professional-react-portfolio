@@ -50,14 +50,14 @@ class Contact extends Component {
 
                   <ListItem>
                     <ListItemContent
-                      style={{ fontSize: "25px", fontFamily: "Anton" }}
+                      style={{ fontSize: "25px", fontFamily: "Anton"}}
                     >
                       <i className="fa fa-linkedin-square" aria-hidden="true" />
                       <a
                         href="https://www.linkedin.com/in/michael-plichta-60a391199/"
                         rel="noopener noreferrer"
                         target="_blank">
-                          Michael Plichta | LinkedIn.com
+                        Michael Plichta | LinkedIn.com
                         </a>
                     </ListItemContent>
                   </ListItem>

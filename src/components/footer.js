@@ -8,7 +8,6 @@ class FooterBar extends React.Component {
         <Footer
           className="navbar-color"
           title="Michael J Plichta"
-          scroll
         ></Footer>
       </Layout>
     );

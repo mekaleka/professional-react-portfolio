@@ -116,7 +116,7 @@ class Projects extends Component {
                 list based on a list of employees.
               </CardText>
               <CardActions border>
-                <navigation>
+                <Navigation>
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
@@ -131,7 +131,7 @@ class Projects extends Component {
                   >
                     <Button colored>DEMO GIF</Button>
                   </a>
-                </navigation>
+                </Navigation>
               </CardActions>
               <CardMenu style={{ color: "blue" }}></CardMenu>
             </Card>
@@ -195,7 +195,7 @@ class Projects extends Component {
                 connection.
               </CardText>
               <CardActions border>
-                <navigation>
+                <Navigation>
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
@@ -210,7 +210,7 @@ class Projects extends Component {
                   >
                     <Button colored>HEROKU DEPLOYMENT</Button>
                   </a>
-                </navigation>
+                </Navigation>
               </CardActions>
               <CardMenu style={{ color: "blue" }}></CardMenu>
             </Card>
@@ -249,7 +249,7 @@ class Projects extends Component {
                 connoisseurs to be a part of a growing online community.
               </CardText>
               <CardActions border>
-                <navigation>
+                <Navigation>
                   <a
                     target="_blank"
                     rel="noopener noreferrer"
@@ -264,7 +264,7 @@ class Projects extends Component {
                   >
                     <Button colored>HEROKU DEPLOYMENT</Button>
                   </a>
-                </navigation>
+                </Navigation>
               </CardActions>
               <CardMenu style={{ color: "blue" }}></CardMenu>
             </Card>

@@ -7,7 +7,7 @@ A polished professional portfolio built with React and React-MDL. The applicatio
 
 ### Links:
 
-[Heroku Deployment]()
+[Deployed App](https://mekaleka.github.io/professional-react-portfolio/)
 
 [Resume]()
 

@@ -16,11 +16,7 @@ class Contact extends Component {
                 style={{ height: "25" }}
               />
               <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-                Web Developer and customer-oriented management professional with
-                strong people skills. Strong focus on customer satisfaction
-                while maintaining productivity. I recently obtained a Full Stack
-                Web Development Certificate from the University of Arizona with
-                skills in HTML, CSS, JavaScript, jQuery and React. 
+              Junior Web Developer and customer-oriented management professional with strong people skills. Focused on providing exceptional customer satisfaction while maintaining high level productivity. I recently obtained a Full Stack Web Development Certificate from University of Arizona with skills in HTML, CSS, JavaScript, jQuery. Worked with a team of four to develop "Check It," an app for checking multiple social media accounts. Responsible for implementing Auth0 to ensure user security with Google and other platforms. Maintaining dependability and producing at a high level motivates me. Also, having passion and a sense of accomplishment drives me to continue to do well and advance within a company. I am excited to leverage my technical skills and customer-focused mindset to build intuitive, user-friendly web experiences. 
               </p>
             </Cell>
 

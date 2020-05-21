@@ -16,15 +16,8 @@ class About extends Component {
             }}
             col={4}
           >
-            <h3>What is Lorem Ipsum?</h3>
-            simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard
-            dummy text ever since the 1500s, when an unknown printer took a
-            galley of type and scrambled it to make a type specimen book. It has
-            survived not only five centuries, but also the leap into electronic
-            typesetting, remaining essentially unchanged. It was popularised in
-            the 1960s with the release of Letraset sheets containing Lorem Ipsum
-            passages, and more.
+            <h3>My World</h3>
+            I am a father of 2 precious young girls who are my absolute world and a husband of a beautiful ambitious spouse. I am always trying to find ways to keep excitement within our household because to me happiness is a key component for being healthy. I enjoy spending time with my family doing many different things from learning to camping. 
           </Cell>
 
           <Cell
@@ -36,13 +29,8 @@ class About extends Component {
             }}
             col={4}
           >
-            <h3>What is Lorem Ipsum?</h3>
-            simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard
-            dummy text ever since the 1500s, when an unknown printer took a
-            galley of type and scrambled it to make a type specimen book. It has
-            survived not only five centuries, but also the leap into electronic
-            typesetting, remaining essentially unchanged
+            <h3>Things I Like</h3>
+            I enjoy doing many different things and most of them I do with my family. We are always trying to mix it up and keep life interesting. Some of my hobbies and things I like to do include going camping, playing golf, exercising, hiking, grilling and shooting off model rockets. I also enjoy checking out what the newest technologies are on the market and finding out how they work sparks my interests. 
           </Cell>
 
           <Cell
@@ -54,11 +42,8 @@ class About extends Component {
             }}
             col={4}
           >
-            <h3>What is Lorem Ipsum?</h3>
-            simply dummy text of the printing and
-            typesetting industry. Lorem Ipsum has been the industry's standard
-            dummy text ever since the 1500s, when an unknown printer took a
-            galley of type and scrambled it to make a type specimen book.
+            <h3>My Passion</h3>
+            I get enjoyment from helping people. Weather it be doing a good deed or solving a complex problen for a client, Knowing that I can put a smile on someones face gives me joy. I get a sense of accomplishment knowing I have had a positive impact in someones day. I also like to create new things and so for me having the ability to create something like responsive web pages drives me. Knowing that I can be creative designing something of my own and satisfy a clients needs at the same time is a passion of mine. I hold great pride in doing so. 
           </Cell>
         </Grid>
       </div>

@@ -9,6 +9,7 @@ function Navbar () {
         {/* <Layout> */}
           <Header className="navbar-color" title="Michael J Plichta" scroll>
             <Navigation>
+              <Link to="/professional-react-portfolio">Home Page</Link>
               <Link to="/aboutme">About Me</Link>
               <Link to="/projects">Projects</Link>
               <Link  to="/resume">Resume</Link>
@@ -17,6 +18,7 @@ function Navbar () {
           </Header>
           <Drawer title="Title">
             <Navigation>
+              <Link to="/professional-react-portfolio">Home Page</Link>
               <Link to="/aboutme">About Me</Link>
               <Link to="/projects">Projects</Link>
               <Link to="/resume">Resume</Link>

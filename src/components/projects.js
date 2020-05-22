@@ -31,7 +31,7 @@ class Projects extends Component {
                   color: "blue",
                   height: "175px",
                   background:
-                    "url(https://user-images.githubusercontent.com/58678985/78611016-e124f580-781a-11ea-9bfc-ac34cb6b063f.png) center / cover",
+                    "url(https://user-images.githubusercontent.com/58678985/82691717-32dedf00-9c13-11ea-87b0-743f86d8207a.png) center / cover",
                 }}
               ></CardTitle>
               <CardText>
@@ -69,7 +69,7 @@ class Projects extends Component {
                   color: "blue",
                   height: "175px",
                   background:
-                    "url(https://user-images.githubusercontent.com/58678985/77840739-9383fb00-713f-11ea-8f34-a3d3a43de4bc.png) center / cover",
+                    "url(https://user-images.githubusercontent.com/58678985/82692270-4a6a9780-9c14-11ea-8748-55133276d57d.png) center / cover",
                 }}
               ></CardTitle>
               <CardText>
@@ -107,7 +107,7 @@ class Projects extends Component {
                   color: "blue",
                   height: "175px",
                   background:
-                    "url(https://user-images.githubusercontent.com/58678985/75832961-d2a77200-5d74-11ea-927b-6f5bfea855ce.png) center / cover",
+                    "url(https://user-images.githubusercontent.com/58678985/82692522-b4833c80-9c14-11ea-838e-22da03f69c47.png) center / cover",
                 }}
               ></CardTitle>
               <CardText>

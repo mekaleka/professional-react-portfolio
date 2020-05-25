@@ -60,7 +60,6 @@ class Projects extends Component {
               <CardMenu style={{ color: "blue" }}></CardMenu>
             </Card>
           </Grid>
-
         </div>
       );
     } else if (this.state.activeTab === 1) {
@@ -146,8 +145,8 @@ class Projects extends Component {
       );
     } else if (this.state.activeTab === 2) {
       return (
-      <div className="projects-grid">
-        <Grid>
+        <div className="projects-grid">
+          <Grid>
             <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
               <CardTitle
                 className="app-name"
@@ -159,8 +158,9 @@ class Projects extends Component {
                 }}
               ></CardTitle>
               <CardText>
-                <h5>Password Generator</h5>
-                Allows for the user to generate a random password between 8 and 128 random characters.
+                <h5>PASSWORD GENERATOR</h5>
+                Allows for the user to generate a random password between 8 and
+                128 random characters.
               </CardText>
               <CardActions border>
                 <Navigation>
@@ -183,14 +183,47 @@ class Projects extends Component {
               <CardMenu style={{ color: "blue" }}></CardMenu>
             </Card>
           </Grid>
-
-      </div>
+        </div>
       );
-
     } else if (this.state.activeTab === 3) {
       return (
         <div>
-          <h1>This is jQuery</h1>
+          <Grid>
+            <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+              <CardTitle
+                className="app-name"
+                style={{
+                  color: "blue",
+                  height: "175px",
+                  background:
+                    "url(https://user-images.githubusercontent.com/58678985/82832214-5736f780-9e6f-11ea-9e03-5fd0d7fdf314.png) center / cover",
+                }}
+              ></CardTitle>
+              <CardText>
+                <h5>EXPRESS NOTE TAKER</h5>
+                This is a simple note taker app that uses jQuery and an Express framework to establish api routes and HTTP requests.
+              </CardText>
+              <CardActions border>
+                <Navigation>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://github.com/mekaleka/express-note-taker"
+                  >
+                    <Button colored>GITHUB</Button>
+                  </a>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://secure-journey-72287.herokuapp.com/"
+                  >
+                    <Button colored>HEROKU LINK</Button>
+                  </a>
+                </Navigation>
+              </CardActions>
+              <CardMenu style={{ color: "blue" }}></CardMenu>
+            </Card>
+          </Grid>
         </div>
       );
     } else if (this.state.activeTab === 4) {
@@ -235,9 +268,6 @@ class Projects extends Component {
           </Grid>
         </div>
       );
-
-
-
     } else if (this.state.activeTab === 5) {
       return (
         <div className="projects-grid">
@@ -278,7 +308,6 @@ class Projects extends Component {
           </Grid>
         </div>
       );
-      
     } else if (this.state.activeTab === 5) {
       return (
         <div className="projects-grid">

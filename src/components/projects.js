@@ -60,6 +60,43 @@ class Projects extends Component {
               <CardMenu style={{ color: "blue" }}></CardMenu>
             </Card>
           </Grid>
+
+          <Grid>
+            <Card shadow={5} style={{ minWidth: "450", margin: "auto" }}>
+              <CardTitle
+                className="app-name"
+                style={{
+                  color: "blue",
+                  height: "175px",
+                  background:
+                    "url(https://user-images.githubusercontent.com/58678985/82833669-8c454900-9e73-11ea-9c07-7861b13cc042.png) center / cover",
+                }}
+              ></CardTitle>
+              <CardText>
+                <h5>PROFESSIONAL REACT PORTFOLIO</h5>
+                My portfolio made with React. It has some of my projects I have completed including Github and deployed links.
+              </CardText>
+              <CardActions border>
+                <Navigation>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://github.com/mekaleka/professional-react-portfolio"
+                  >
+                    <Button colored>GITHUB</Button>
+                  </a>
+                  <a
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    href="https://mekaleka.github.io/professional-react-portfolio/"
+                  >
+                    <Button colored>DEPLOYED APP</Button>
+                  </a>
+                </Navigation>
+              </CardActions>
+              <CardMenu style={{ color: "blue" }}></CardMenu>
+            </Card>
+          </Grid>
         </div>
       );
     } else if (this.state.activeTab === 1) {
